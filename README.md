@@ -1,4 +1,4 @@
-# **Project: Text Summarization Model**
+# **Project: Text Summarization of Scientific Papers**
 
 **Overview:**
 
